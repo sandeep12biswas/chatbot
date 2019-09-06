@@ -1,9 +1,33 @@
 categories:
-- Home Loan
+- homeloan
 conversations:
-- - i want to take loan
-  - how can i help you?
-- - I need loan
-  - how can i help you?
-- - what sort of loan you provide?
-  - home loan / car loan / personal loan
+- - Good morning, how are you?
+  - I am doing well, how about you?
+  - I'm also good.
+  - That's good to hear.
+  - Yes it is.
+- - I have few queries regarding to home loan, can you help me?
+  - Yes Please, I am here to help you. Please go ahead.
+- - How can I apply for Home loan?
+  - You can apply in two ways, firstly you can log on to online banking site and apply online or secondly you can call our bank agent for help.
+- - How to include additional borrowing in my main Mortgage funds?
+  - First Navigate to 'Mortgage Package Details' screen where you will get an radio button option to include additional borrowing in your main amount.
+- - How to skip Decision in Principle for my Mortgage application?
+  - Give call to our agent (18001010010), they can help you to create application without running Decision in Principle.
+- - How to upload my document within the application?
+  - Please upload your document here (link - www.docuploader@doc.com).This process will submit your document for bank verification.
+- - Which option to select for a homeOwner loan?
+  - On Mortgage Service Screen, please select option "Borrow extra – for EXISTING customers" or "Borrow funds – for NEW customers" for 'what's this 
+    mortgage for' question.
+- - How to access mortgage offer documents?
+  - Please navigate to JMS My Document via RHN
+- - Is application has been completed/submitted to underwriting?
+  - You can see the application status on this screen. Once Underwriting is completed, application status will change to Accept' OR 'No' based on 
+    application details
+- - How to update D/D details for the mortgage?
+  - After completing Full Credit Decision, you need to perform Valuation, Direct Debit and Conveyancing.You can complete it in any order.If the page 
+    showing valuation as next step, then just launch that function and skip it, it will take you to DD.
+- - How to update valuation details for the mortgage?
+  - After completing Full Credit Decision, you need to perform Valuation, Direct Debit and Conveyancing.You can complete it in any order. If Valuation
+    details are provided from your end, then your request is with our valuer and application status would be changed once that done.Thanks for your 
+    patience
