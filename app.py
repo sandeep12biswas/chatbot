@@ -1,10 +1,12 @@
 from flask import Flask,request, jsonify
+from flask_cors import CORS
 from main.service.query import QueryBroker
 from main.controller.chat_bot import bot
 import flask
 import json
 
 app = Flask(__name__)
+CORS(app)
 app.config["DEBUG"] = True
 
 # Create some test data for our catalog in the form of a list of dictionaries.
