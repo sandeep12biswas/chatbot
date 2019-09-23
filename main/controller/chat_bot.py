@@ -24,7 +24,10 @@ trainer = ChatterBotCorpusTrainer(bot)
 
 trainer.train(
     "chatterbot.corpus.english.homeloan",
-    "chatterbot.corpus.english.ai",
+    "chatterbot.corpus.english.JourneyMgmt",
+    "chatterbot.corpus.english.GAD",
+    "chatterbot.corpus.english.FCD",
+    "chatterbot.corpus.english.money",
     "chatterbot.corpus.english.greetings",
     "chatterbot.corpus.english.conversations"
 )
