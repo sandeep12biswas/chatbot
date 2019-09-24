@@ -9,7 +9,11 @@ class QueryBroker:
         'Agent',
         storage_adapter='chatterbot.storage.MongoDatabaseAdapter',
         logic_adapters=[
-            'chatterbot.logic.BestMatch'
+            'chatterbot.logic.BestMatch',
+            'chatterbot.logic.MathematicalEvaluation',
+            'chatterbot.logic.SpecificResponseAdapter',
+            'chatterbot.logic.UnitConversion',
+            
         ],
         database_uri='mongodb://localhost:27017/chatterbot-databases'
     )
